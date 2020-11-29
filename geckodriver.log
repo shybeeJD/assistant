@@ -1,0 +1,304 @@
+1591692760679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileF6TQNf"
+1591692763496	Marionette	INFO	Listening on port 51588
+1591692763595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1591692793826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileiHH07Z"
+1591692796548	Marionette	INFO	Listening on port 51858
+1591692796608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1591692832381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilel27R92"
+1591692834376	Marionette	INFO	Stopped listening on port 51588
+1591692835308	Marionette	INFO	Listening on port 52125
+1591692835413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591692836999	Marionette	INFO	Stopped listening on port 51858
+1591692880868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileefNLjX"
+1591692883257	Marionette	INFO	Listening on port 52388
+1591692883341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591692910800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile9Mdvn3"
+1591692912995	Marionette	INFO	Listening on port 52589
+1591692913098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591692982046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilecq3NBI"
+1591692984420	Marionette	INFO	Listening on port 53002
+1591692984450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591692990488	Marionette	INFO	Stopped listening on port 52125
+1591692992136	Marionette	INFO	Stopped listening on port 52388
+1591692997480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileQCmozX"
+1591692999650	Marionette	INFO	Listening on port 53151
+1591692999667	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591693031380	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilecAtGQ2"
+1591693033704	Marionette	INFO	Listening on port 53344
+1591693033788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693034139	Marionette	INFO	Stopped listening on port 52589
+1591693057035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileJfA1bb"
+1591693059224	Marionette	INFO	Listening on port 53524
+1591693059317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693073517	Marionette	INFO	Stopped listening on port 53002
+1591693076113	Marionette	INFO	Stopped listening on port 53151
+1591693093035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileZhBcVJ"
+1591693095171	Marionette	INFO	Listening on port 53797
+1591693095202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+1591693244430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilevLzNqj"
+1591693246544	Marionette	INFO	Listening on port 54524
+1591693246614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693250433	Marionette	INFO	Stopped listening on port 53344
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+1591693253265	Marionette	INFO	Stopped listening on port 53524
+1591693587554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileUtzMqG"
+1591693589972	Marionette	INFO	Listening on port 55897
+1591693590025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693709888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilepbSmMB"
+1591693711906	Marionette	INFO	Listening on port 56466
+1591693711959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693735395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofiledFrE97"
+1591693737592	Marionette	INFO	Listening on port 56637
+1591693737722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693737854	Marionette	INFO	Stopped listening on port 53797
+1591693771192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileQowQvx"
+1591693773298	Marionette	INFO	Listening on port 56852
+1591693773393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693984546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileDIAGWJ"
+1591693986799	Marionette	INFO	Listening on port 57618
+1591693986825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591693994850	Marionette	INFO	Stopped listening on port 55897
+1591693996355	Marionette	INFO	Stopped listening on port 56466
+1591693997933	Marionette	INFO	Stopped listening on port 56637
+1591694052376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileH8E9mx"
+1591694054477	Marionette	INFO	Listening on port 57929
+1591694054551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591694130511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileE0VQvi"
+1591694132580	Marionette	INFO	Listening on port 58387
+1591694132667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591694200314	Marionette	INFO	Stopped listening on port 56852
+1591694202450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileocmaHo"
+1591694203907	Marionette	INFO	Stopped listening on port 57618
+1591694204712	Marionette	INFO	Listening on port 58683
+1591694204731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1C0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1591694222111	Marionette	INFO	Stopped listening on port 57929
+1591694333554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilertNmhU"
+1591694335562	Marionette	INFO	Listening on port 59272
+1591694335604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+1591694413232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileI9f3Pl"
+1591694415217	Marionette	INFO	Listening on port 59646
+1591694415283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+1591694499200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileArdV3c"
+1591694501119	Marionette	INFO	Listening on port 60063
+1591694501168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+1591694652452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileHKoHtG"
+1591694654424	Marionette	INFO	Listening on port 60708
+1591694654500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_1bf7ba, line 1: ReferenceError: verification is not defined
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1591695154000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileyLsSc5"
+1591695155989	Marionette	INFO	Listening on port 62642
+1591695156043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695181084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileeuiYaF"
+1591695183181	Marionette	INFO	Listening on port 62817
+1591695183273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695224503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileuUplSj"
+1591695226521	Marionette	INFO	Listening on port 63045
+1591695226556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695281682	Marionette	INFO	Stopped listening on port 62817
+1591695283689	Marionette	INFO	Stopped listening on port 63045
+1591695285617	Marionette	INFO	Stopped listening on port 62642
+1591695287168	Marionette	INFO	Stopped listening on port 58683
+1591695320228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileNYdaSp"
+1591695322160	Marionette	INFO	Listening on port 63568
+1591695322172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695378557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileppAwfs"
+1591695380516	Marionette	INFO	Listening on port 63856
+1591695380602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695431031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofiledakDAK"
+1591695433058	Marionette	INFO	Listening on port 64123
+1591695433087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695595675	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile1SltXP"
+1591695597888	Marionette	INFO	Listening on port 64682
+1591695597947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591695650429	Marionette	INFO	Stopped listening on port 54524
+1591695652419	Marionette	INFO	Stopped listening on port 58387
+1591695657433	Marionette	INFO	Stopped listening on port 63568
+1591695658863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilePuasnD"
+1591695660771	Marionette	INFO	Listening on port 65053
+1591695660820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591696023860	Marionette	INFO	Stopped listening on port 63856
+1591696160285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileVEdMYU"
+1591696162270	Marionette	INFO	Listening on port 50466
+1591696162341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591696179513	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile95E7R6"
+1591696181712	Marionette	INFO	Listening on port 50639
+1591696181787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1591696213834	Marionette	INFO	Stopped listening on port 64123
+1591696214174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileVstTuz"
+1591696216519	Marionette	INFO	Listening on port 50867
+1591696216532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1591696381254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilePX3tYE"
+1591696383705	Marionette	INFO	Listening on port 51581
+1591696383742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591696605961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileTu4XtG"
+1591696608386	Marionette	INFO	Listening on port 52372
+1591696608413	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1591696783194	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile2TnPvF"
+1591696785857	Marionette	INFO	Listening on port 53008
+1591696785877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591696807056	Marionette	INFO	Stopped listening on port 64682
+1591696809006	Marionette	INFO	Stopped listening on port 65053
+1591696810526	Marionette	INFO	Stopped listening on port 50466
+1591696812305	Marionette	INFO	Stopped listening on port 50639
+1591696814483	Marionette	INFO	Stopped listening on port 50867
+1591696816363	Marionette	INFO	Stopped listening on port 51581
+1591696818129	Marionette	INFO	Stopped listening on port 52372
+1591696854535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilesCX4TM"
+1591696856463	Marionette	INFO	Listening on port 53469
+1591696856494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+1591696960959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilehUbfey"
+1591696962868	Marionette	INFO	Listening on port 53873
+1591696962910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591696986009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilethUVJa"
+1591696987900	Marionette	INFO	Listening on port 54050
+1591696987966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591697066472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileWOUNoG"
+1591697068651	Marionette	INFO	Listening on port 54399
+1591697068750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591697091026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile3TzB0X"
+1591697093012	Marionette	INFO	Listening on port 54571
+1591697093097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591697110918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilec6K3st"
+1591697112982	Marionette	INFO	Listening on port 54786
+1591697113064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+1591697138381	Marionette	INFO	Stopped listening on port 53008
+1591697144343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile4GAYZ5"
+1591697146499	Marionette	INFO	Listening on port 55037
+1591697146521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+1591697174612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile0WXTDJ"
+1591697176982	Marionette	INFO	Listening on port 55253
+1591697177012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591697194888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile4hQEod"
+1591697197054	Marionette	INFO	Listening on port 55462
+1591697197101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_6daf195df2a, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591697205857	Marionette	INFO	Stopped listening on port 53469
+1591697209187	Marionette	INFO	Stopped listening on port 53873
+1591697210676	Marionette	INFO	Stopped listening on port 54050
+1591697211994	Marionette	INFO	Stopped listening on port 54399
+1591697213467	Marionette	INFO	Stopped listening on port 54571
+1591697214963	Marionette	INFO	Stopped listening on port 54786
+1591697217678	Marionette	INFO	Stopped listening on port 55037
+1591697261013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileT3HrnO"
+1591697263000	Marionette	INFO	Listening on port 55830
+1591697263087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591697340006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileyqP4HH"
+1591697341902	Marionette	INFO	Listening on port 56158
+1591697341959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_6daf195df2a, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/_6daf195df2a, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591704903841	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilepgAy4i"
+1591704906384	Marionette	INFO	Listening on port 59244
+1591704906420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591705046945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileomO3fA"
+1591705049241	Marionette	INFO	Listening on port 59760
+1591705049311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591705133492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofile6oqlXr"
+1591705135562	Marionette	INFO	Listening on port 60163
+1591705135641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/b89d79056, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/b89d79056, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/b89d79056, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591705151429	Marionette	INFO	Stopped listening on port 55253
+1591705153196	Marionette	INFO	Stopped listening on port 55462
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591705499978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileiSErg7"
+1591705502000	Marionette	INFO	Listening on port 61412
+1591705502044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript error: http://bkjw.whu.edu.cn/servlet/b89d79056, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591705568093	Marionette	INFO	Stopped listening on port 59244
+1591705572037	Marionette	INFO	Stopped listening on port 56158
+1591705575076	Marionette	INFO	Stopped listening on port 55830
+1591705967620	Marionette	INFO	Stopped listening on port 61412
+1591836343616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileXzZVQ1"
+1591836349582	Marionette	INFO	Listening on port 59076
+1591836349618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591846892166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofilefAC2Xf"
+1591846897082	Marionette	INFO	Listening on port 49836
+1591846897181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591846928116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/14/zlch53094114k7155dx9tq7m0000gn/T/rust_mozprofileqqpKs4"
+1591846930917	Marionette	INFO	Listening on port 50287
+1591846930990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bkjw.whu.edu.cn/, line 1: ReferenceError: verification is not defined
+JavaScript warning: http://bkjw.whu.edu.cn/js/jquery-1.9.0.main.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591847356173	Marionette	INFO	Stopped listening on port 49836
+1591847358504	Marionette	INFO	Stopped listening on port 50287
